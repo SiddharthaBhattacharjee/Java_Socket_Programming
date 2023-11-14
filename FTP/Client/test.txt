@@ -1,0 +1,5 @@
+1. Create a socket connection from client to the server with corresponding IP address and port number
+2. Create necessary file streams
+3. Read each byte from the file in the client side and write it into the output stream of the socket
+4. In the server side, read the bytes from the input stream and write it into the file.
+-1
